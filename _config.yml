@@ -12,7 +12,7 @@ title                    : "Yuetong Chen"
 title_separator          : "-"
 name                     : &name "Yuetong Chen"
 description              : &description "Yuetong Chen is an undergraduate student major in computer science in Chinese University of Hong Kong, Shenzhen. She is interesting in 3D representation."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://easyt18.github.io/emma-chen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuetong Chen"
   pronouns         : she # example: "she/her"  
   bio              : "Undergraduate student major in computer science in Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
