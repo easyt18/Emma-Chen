@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuetong Chen / Yuetong Chen"
+title                    : "Yuetong Chen"
 title_separator          : "-"
 name                     : &name "Yuetong Chen"
 description              : &description "Yuetong Chen is an undergraduate student major in computer science in Chinese University of Hong Kong, Shenzhen. She is interesting in 3D representation."
