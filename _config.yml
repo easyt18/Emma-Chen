@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China Shenzhen"
+locale                   : "en-US"
 title                    : "Yuetong Chen / Yuetong Chen"
 title_separator          : "-"
 name                     : &name "Yuetong Chen"
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : @EmmaChen_easyt# Username for X / Twitter
+  twitter          : "EmmaChen_easyt"# Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
